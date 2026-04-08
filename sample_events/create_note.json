@@ -1,0 +1,8 @@
+{
+  "httpMethod": "POST",
+  "path": "/notes",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{\"content\":\"Buy milk\"}"
+}
