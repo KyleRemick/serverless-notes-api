@@ -1,7 +1,7 @@
 # serverless-notes-api
 
 ## Project Summary
-Small serverless API for creating, fetching, and deleting notes using API Gateway, Lambda, and DynamoDB.
+Serverless notes API on AWS using API Gateway, Lambda (Python), and DynamoDB, with endpoints for creating, retrieving, and deleting notes. Automated infrastructure deployment and teardown with Python/boto3 scripts, and validated functionality with end-to-end API tests (POST/GET/DELETE).
 
 ## Architecture Overview
 - API Gateway routes requests to Lambda.
