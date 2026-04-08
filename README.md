@@ -42,4 +42,4 @@ Run: `python cleanup.py`
 ## Example Output
 Sample API test results screenshot (POST, GET, and DELETE success flow):
 
-`screenshots/api-test-results.png`
+![API test results](screenshots/api-test-results.png)
